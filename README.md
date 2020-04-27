@@ -1,2 +1,2 @@
 # Estimating the proportion of true null hypotheses under dependency: a marginal bootstrap approach
-This repository contains the source code (.R), plots (.png) and numerical results (.RData and .txt) of the paper "Estimating the proportion of true null hypotheses under dependency: a marginal bootstrap approach" by André Neumann and Thorsten Dickhaus (link: TODO).
+This repository contains the source code (.R), plots (.png) and numerical results (.RData and .txt) of the paper "Estimating the proportion of true null hypotheses under dependency: a marginal bootstrap approach" by André Neumann, Taras Bodnar, and Thorsten Dickhaus (link: TODO).
